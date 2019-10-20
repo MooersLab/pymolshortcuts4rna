@@ -34,12 +34,12 @@ The shortcut is listed on the top.
 
 #### Example of a stacking figure. Use the code revealed with *help BST* as a template.
 
-![BST](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/BST.png?raw=true "BST")
+![BST](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/BSTcrop.png?raw=true "BST")
 
 
-#### Example of a coordinated metal. Use the code revealed with *help NAL* as a template.
+#### Example of a coordinated metal. Use of the pearl effect with the radius of the opaque sphere set to 0.25. Use the code revealed with *help NAL* as a template.
 
-![NaNape25](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/NaNape25.png?raw=true "NaNape25")
+![NaNape25](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/naNape25.png?raw=true "naNape25")
 
 
 ## PyMOL tools by others for making RNA cartoons
