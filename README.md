@@ -1,7 +1,7 @@
 # pymolshortcuts4rna
 
 This is the repository for ***pymolschortucts4rna.py***.
-At this point in time, it is best to use  **pymolschortuctsnobs4.py** located [here](https://github.com/MooersLab/pymolshortcuts "/pymolshortcuts").
+At this point in time, it is best to use  **pymolschortuctsnobs4.py** located [here](https://github.com/MooersLab/pymolshortcuts "pymolshortcuts").
 
 Advanced beginers who have started scripting should also consider using the snippet library, [pymolsnips](https://github.com/MooersLab/pymolsnips "pymolsnips"). 
 It is available for 18 leading text editors.
@@ -10,14 +10,37 @@ The pdf of the slides from my presentation at the wonderful [**2019 ConrBelt Reg
 
 ## Examples
 
-![Gallery](https://github.com/MooersLab/pymolsnips/blob/master/images/Gallery.png?raw=true "Gallery")
 
-The shortcut is list on the top.
+The shortcut is listed on the top.
 
-![Gallery](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/g?raw=true "FR")
+#### CR: filled rings colored by element. There are no presets for nucleic acids unde the **A** pulldown in the internal guie to the right.
 
-![Gallery](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/g?raw=true "FR")
+![U8CR](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/guiU8CR.png?raw=true "CR")
 
+
+#### FR: filled rings colored by sequence.
+
+![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
+
+
+#### Ambient occlusion variants. 
+
+![AOBWAOD](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/AOBWAOD.png?raw=true "AO BW AOD")
+
+
+#### Shortcuts for generating arrays of unit cells filled with symmetry mates.
+
+![xtalPacking](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/xtalPacking.png?raw=true "xtalPacking")
+
+
+#### Example of a stacking figure. Use the code revealed with *help BST* as a template.
+
+![BST](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/BST.png?raw=true "BST")
+
+
+#### Example of a coordinated metal. Use the code revealed with *help NAL* as a template.
+
+![NaNape25](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/NaNape25.png?raw=true "NaNape25")
 
 
 ## PyMOL tools by others for making RNA cartoons
