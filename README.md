@@ -8,6 +8,18 @@ It is available for 18 leading text editors.
 
 The pdf of the slides from my presentation at the wonderful [**2019 ConrBelt Regional RNA Symposium**](https://rna-cornbelt-regional-meeting.webnode.com) at the University of Missouri, Columbia, MO on October 18th can be downloaded from [here](). Many thanks go to Brenda Peculis and Frank Schmidt for organizing and hosting this fantastic meeting. The  poster session was one of the best that I have ever experienced.
 
+## Examples
+
+![Gallery](https://github.com/MooersLab/pymolsnips/blob/master/images/Gallery.png?raw=true "Gallery")
+
+The shortcut is list on the top.
+
+![Gallery](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/g?raw=true "FR")
+
+![Gallery](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/g?raw=true "FR")
+
+
+
 ## PyMOL tools by others for making RNA cartoons
 
 |Software |Description                                                               | Publication.     |
