@@ -25,7 +25,7 @@ The shortcut is listed on the top.
 
 #### Ambient occlusion variants. 
 
-![AOBWAOD](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/AOBWAOD.png?raw=true "AO BW AOD")
+![AOAOBWAOD](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/AOAOBWAOD.png?raw=true "AO BW AOD")
 
 
 #### Shortcuts for generating arrays of unit cells filled with symmetry mates.
