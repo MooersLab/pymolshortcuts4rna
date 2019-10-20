@@ -12,14 +12,12 @@ The pdf of the slides from my presentation at the wonderful [**2019 ConrBelt Reg
 
 
 The shortcut is listed on the top.
-#### FR: filled rings colored by sequence.
-
-
+#### CR: filled rings colored by sequence. There are no presets for nucleic acids unde the **A** pulldown in the internal gui to the right.
 
 ![U8CR](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/guiU8CR.png?raw=true "CR")
 
-#### CR: filled rings colored by element. There are no presets for nucleic acids unde the **A** pulldown in the internal guie to the right.
 
+#### FR: filled rings colored by element. 
 
 ![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
 
@@ -46,7 +44,7 @@ The shortcut is listed on the top.
 
 ## PyMOL tools by others for making RNA cartoons
 
-|Software |Description                                                               | Publication.     |
+|Software |Description                                                     | Publication.          |
 |:--------|:---------------------------------------------------------------|:----------------------|
 | [nuccyl perl scripts](http://www.biosci.ki.se/groups/ljo/software/nuccyl.html) | perl scripts for making nucleic acid cartoons in PyMOL. | [2003 NAR paper](https://www.ncbi.nlm.nih.gov/pubmed/12824344?dopt=Abstract) |
 | [dssr_block plugin](https://pymolwiki.org/index.php/Dssr_block) |  for making DSSR block cartoons in which purines are represented as long rectangular blocks and pyrimadines as short rectangular blocks. | [2015 NAR paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666379/) | 
