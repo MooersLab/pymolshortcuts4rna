@@ -12,13 +12,14 @@ The pdf of the slides from my presentation at the wonderful [**2019 ConrBelt Reg
 
 
 The shortcut is listed on the top.
+#### FR: filled rings colored by sequence.
 
-#### CR: filled rings colored by element. There are no presets for nucleic acids unde the **A** pulldown in the internal guie to the right.
+
 
 ![U8CR](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/guiU8CR.png?raw=true "CR")
 
+#### CR: filled rings colored by element. There are no presets for nucleic acids unde the **A** pulldown in the internal guie to the right.
 
-#### FR: filled rings colored by sequence.
 
 ![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
 
