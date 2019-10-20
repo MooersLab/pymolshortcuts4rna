@@ -12,14 +12,14 @@ The pdf of the slides from my presentation at the wonderful [**2019 ConrBelt Reg
 
 
 The shortcut is listed on the top.
-#### CR: filled rings colored by sequence. There are no presets for nucleic acids unde the **A** pulldown in the internal gui to the right.
+#### CR: filled rings colored by sequence. There are no presets for nucleic acids under the **A** pulldown in the internal gui to the right.
 
 ![U8CR](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/guiU8CR.png?raw=true "CR")
 
 
-#### FR: filled rings colored by element. 
+#### FR: filled rings colored by element. BW: black and white cartoon for grayscale figures.
 
-![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
+![MolRep](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/MolRep.png?raw=true "FR BW")
 
 
 #### Ambient occlusion variants. 
@@ -39,7 +39,7 @@ The shortcut is listed on the top.
 
 #### Example of a coordinated metal. Use of the pearl effect with the radius of the opaque sphere set to 0.25. Use the code revealed with *help NAL* as a template.
 
-![NaNape25](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/naNape25.png?raw=true "naNape25")
+![NaNape25](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/NaNape25.png?raw=true "naNape25")
 
 
 ## PyMOL tools by others for making RNA cartoons
