@@ -19,7 +19,7 @@ The shortcut is listed on the top.
 
 #### FR: filled rings colored by element. BW: black and white cartoon for grayscale figures.
 
-![MolRep](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/MolRep.png?raw=true "FR BW")
+![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
 
 
 #### Ambient occlusion variants. 
