@@ -48,3 +48,16 @@ The shortcut is listed on the top.
 |:--------|:---------------------------------------------------------------|:----------------------|
 | [nuccyl perl scripts](http://www.biosci.ki.se/groups/ljo/software/nuccyl.html) | perl scripts for making nucleic acid cartoons in PyMOL. | [2003 NAR paper](https://www.ncbi.nlm.nih.gov/pubmed/12824344?dopt=Abstract) |
 | [dssr_block plugin](https://pymolwiki.org/index.php/Dssr_block) |  for making DSSR block cartoons in which purines are represented as long rectangular blocks and pyrimadines as short rectangular blocks. | [2015 NAR paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4666379/) | 
+
+
+## Related repos
+
+- [easypymol](https://github.com/MooersLab/EasyPyMOL/edit/master/README.md)
+- [pymolshortcuts](https://github.com/MooersLab/pymolshortcuts)
+- [orgpymolpysnips](https://github.com/MooersLab/orgpymolpysnips)
+- [rstudiopymolpysnips](https://github.com/MooersLab/rstudiopymolpysnips)
+- [taggedpymolpysnips](https://github.com/MooersLab/taggedpymolpysnips)
+- [jupyterlabpymolpysnips](https://github.com/MooersLab/jupyterlabpymolpysnips)
+- [colabOpenSourcePyMOLpySnips](https://github.com/MooersLab/colabOpenSourcePyMOLpySnips)
+- [colabPyMOLpySnips](https://github.com/MooersLab/colabPyMOLpySnips)
+- [PyMOLwallhangings](https://github.com/MooersLab/PyMOLwallhangings)
