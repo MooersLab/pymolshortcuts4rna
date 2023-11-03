@@ -11,8 +11,9 @@ The poster session was one of the most enjoyable that I have ever experienced.
 
 ## Examples
 
-
 The shortcut is listed on the top.
+Two shortcuts are combined by using a semicolon.
+The U8 shortcut retrieves and orients the biological unit of PDB entry 3nd3.
 
 
 ### U8;CR: filled rings colored by sequence. 
