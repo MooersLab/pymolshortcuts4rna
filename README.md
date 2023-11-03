@@ -13,22 +13,31 @@ The poster session was one of the most enjoyable that I have ever experienced.
 
 
 The shortcut is listed on the top.
-#### CR: filled rings colored by sequence. There are no presets for nucleic acids under the **A** pulldown in the internal gui to the right.
+
+
+### U8;CR: filled rings colored by sequence. 
+
+There are no presets for nucleic acids under the **A** pulldown in the internal gui to the right.
+The CR shortcut provides a ribbon cartoon with filled rings. 
+The nucleotides are colored by base sequence.
 
 ![U8CR](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/guiU8CR.png?raw=true "CR")
 
 
-#### FR: filled rings colored by element. BW: black and white cartoon for grayscale figures.
+### FR: filled rings colored by element and BW: black and white cartoon for grayscale figures
+
+The FR shortcut generates filled rings colored by atomic element.
+The BW shortcut renders a black and white cartoon that is useful when the use of color would be expensive or when used with a colored ligand to emphasize the ligand.
 
 ![U8FRBW](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/U8FRBW.png?raw=true "FR BW")
 
 
-#### Ambient occlusion variants. 
+### Ambient occlusion variants. 
 
 ![AOAOBWAOD](https://github.com/MooersLab/pymolshortcuts4RNA/blob/master/images/AOAOBWAOD.png?raw=true "AO BW AOD")
 
 
-#### Shortcuts for generating arrays of unit cells filled with symmetry mates.
+### Shortcuts for generating arrays of unit cells filled with symmetry mates.
 
 Crystal packing diagrams are particularly relevant to the stacking of double helices, which can stack end-on-end.
 
